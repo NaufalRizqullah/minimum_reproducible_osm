@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:minimum_reproducible_osm/osm/maps.dart';
+import 'package:minimum_reproducible_osm/osm/maps_nostream_move_tocurrentlocation.dart';
 import 'package:minimum_reproducible_osm/osm/page2.dart';
 
 class OSM extends StatefulWidget {
